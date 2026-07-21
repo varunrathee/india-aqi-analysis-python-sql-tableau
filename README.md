@@ -5,7 +5,7 @@ real CPCB government data — covering city rankings, seasonal pollution
 patterns, and pollutant breakdowns.
 
 ## Live Dashboard
-[View on Tableau Public](https://public.tableau.com/views/AQIDashboard_17846599713060/AQIDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View on Tableau Public](https://public.tableau.com/views/AQIDashboard_17846599713060/AQIDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Source
 Kaggle: Air Quality Data in India (2015–2020) — CPCB city-level daily records
